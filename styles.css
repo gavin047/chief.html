@@ -1,0 +1,45 @@
+*{
+    /*color:black */
+    padding: 0;
+    margin:0;
+}
+
+h1{
+    color: rgb(20, 16, 238);
+    padding: 20px ;
+    margin: 10px;
+    text-align: center;
+    
+}
+ #header {
+    background-color: grey;
+    color: aquamarine;
+    padding: 10px;
+ }
+ #News Flash id {
+    text-align: center;
+    padding: 20px;
+    text-decoration: wavy;
+ }
+ 
+ .specificblog {
+    display: flex;
+   
+    padding-inline: 2cm;
+ }
+ 
+
+ h2{
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+    padding: 1px;
+
+ }
+ *title2{
+   text-align: center;
+   padding: 5px;
+   color: red;
+ }
+ 
+ 
